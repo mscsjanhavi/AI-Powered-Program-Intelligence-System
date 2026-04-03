@@ -1,2 +1,2 @@
 # AI-Powered-Program-Intelligence-System
-Built an AI-powered program dashboard with predictive analytics, real-time filtering, and automated executive reporting, deployed as a live web application.
+I built a system that loads project data, calculates KPIs like delay and risk, uses a machine learning model to predict delays, and presents insights through an interactive dashboard.
